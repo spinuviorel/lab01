@@ -1,4 +1,4 @@
-# GIT  Notes
+# Git notes for local work
 
 First command: git init 
 git clone <URL>
@@ -21,7 +21,7 @@ git checkout <HAS or HEAD> : if you forget the FILE, you and up in detach HEAD
 git checkout master : go back to master
 git switch master
 
-# Remote Section
+# Remote Section - remote work
 git remote add <NAME> <URL>
 git remote rm origin
 git remote -v
