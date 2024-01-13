@@ -19,6 +19,7 @@ git checkout <HAS or HEAD> : if you forget the FILE, you and up in detach HEAD
 git checkout master : go back to master
 git switch master
 
+# Remote Section
 git remote add <NAME> <URL>
 git remote rm origin
 git remote -v
