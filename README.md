@@ -26,5 +26,6 @@ git remote -v
 git push <WHERE> <WHAT>
   git push origin master
 
+git pull <WHERE> <WHAT>
 
 
